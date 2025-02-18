@@ -519,3 +519,21 @@ h6,
 .social a:hover {
   color: #000;
 }
+
+.btn-github {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid #000;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+  transition: background-color 0.3s, color 0.3s;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+.btn-github:hover {
+  background-color: #000;
+  color: #fff;
+}
